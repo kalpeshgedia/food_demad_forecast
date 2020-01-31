@@ -1,0 +1,5 @@
+Food Demand Forecasting
+ 
+A meal delivery company has a number of dispatch centers in multiple cities. 
+You have to help these centers with demand forecasting for upcoming weeks so that these centers 
+can plan the stock of raw materials accordingly.
